@@ -13,6 +13,14 @@ The Steps for detecting and cou ting vehicles is listed below:
 
 ![sar_proj_2](https://user-images.githubusercontent.com/92045949/204637629-20cf6464-b4da-4888-bdde-c6bf071983f9.png)
 
+
+# Applications of The Project
+
+The developed video based vehicle detection system was employed for advanced warning of congestion and queues at work zones and on freeways during special events. The advance warning system consists of a series of video monitoring stations equipped with video re- cording devices and our video based vehicle detection system. Vehicle queue lengths, speed and counts were monitored before work zones or special event locations and real-time information regarding congestions were transmitted using Radio Frequency (RF) modules with directional antennas to a portable variable message sign trailer few miles downstream.
+
+The evaluations of the system were conducted at various times of the day and the vehicle speeds evaluated with and without the advance warning system in play. Most of the evaluations at work zones were performed during the night and at special events during the day. The figure shows that the advance warning system has a positive impact on the commuters. T ere was a general reduction of  5 miles/hr in speeds and less traffic congestion at work zones and special events due to the deployment of the advance warning system. The next section discusses the performance of the detection algorithm and the im- pact of the advance warning system.
+
+
 # Screenshorts
 
 ![Screenshot](https://user-images.githubusercontent.com/92045949/204638478-f03c8251-e674-444f-931e-57f5ed7594ae.png)
