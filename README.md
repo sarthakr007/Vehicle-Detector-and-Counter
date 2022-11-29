@@ -2,7 +2,7 @@
 
 Vehicle detection and statistics in highway monitoring video scenes are of considerable significance to intelligent traffic management and control of the highway. With the popular installation of traffic surveillance cameras, a vast database of traffic video footage has been obtained for analysis. Generally, at a high viewing angle, a more-distant road surface can be considered. The object size of the vehicle changes greatly at this viewing angle, and the detection accuracy of a small object far away from the road is low. In the face of complex camera scenes, it is essential to effectively solve the above problems and further apply them. In this article, we focus on the above issues to propose a viable solution, and we apply the vehicle detection results to multi-object tracking and vehicle counting.
 
-![sar_proj_1](https://user-images.githubusercontent.com/92045949/204636445-a2383262-ab75-4084-ac7c-ea705d2743f3.png)
+![sar_proj_4](https://user-images.githubusercontent.com/92045949/204639157-6723f326-8e75-4fc4-8904-a6ccfb15d556.jpg)
 
 # Algorithm
 
